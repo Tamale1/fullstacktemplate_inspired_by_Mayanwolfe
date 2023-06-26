@@ -1,4 +1,4 @@
-# fullstacktemplate_javascript,node and ejs
+# fullstacktemplate_ MVC javascript,node and ejs
 
 
 
